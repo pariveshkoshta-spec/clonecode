@@ -1,0 +1,10 @@
+groq
+python-dotenv
+scikit-learn
+sentence-transformers
+tree-sitter
+tree-sitter-java
+tree-sitter-python
+pandas
+numpy
+tqdm
